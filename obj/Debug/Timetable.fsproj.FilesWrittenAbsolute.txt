@@ -1,0 +1,7 @@
+/home/harlan/RevisionHub/Timetable/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/harlan/RevisionHub/Timetable/bin/Debug/CommonLib.dll
+/home/harlan/RevisionHub/Timetable/bin/Debug/CommonLib.dll.mdb
+/home/harlan/RevisionHub/Timetable/bin/Debug/Timetable.dll.mdb
+/home/harlan/RevisionHub/Timetable/bin/Debug/Timetable.dll
+/home/harlan/RevisionHub/Timetable/obj/Debug/Timetable.dll
+/home/harlan/RevisionHub/Timetable/obj/Debug/Timetable.dll.mdb
